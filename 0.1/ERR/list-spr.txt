@@ -1,14 +1,14 @@
-быстрый.sprite3
-выбор оружий.sprite3
-ГГ.sprite3
-деньги.sprite3
-Играть.sprite3
-кол-во патронов.sprite3
-обычный.sprite3
-превью.sprite3
-пульки.sprite3
-сильный.sprite3
-стрелка1.sprite3
-стрелка2.sprite3
-урон.sprite3
-халк.sprite3
+п»їР±С‹СЃС‚СЂС‹Р№.sprite3
+РІС‹Р±РѕСЂ РѕСЂСѓР¶РёР№.sprite3
+Р“Р“.sprite3
+РґРµРЅСЊРіРё.sprite3
+РРіСЂР°С‚СЊ.sprite3
+РєРѕР»-РІРѕ РїР°С‚СЂРѕРЅРѕРІ.sprite3
+РѕР±С‹С‡РЅС‹Р№.sprite3
+РїСЂРµРІСЊСЋ.sprite3
+РїСѓР»СЊРєРё.sprite3
+СЃРёР»СЊРЅС‹Р№.sprite3
+СЃС‚СЂРµР»РєР°1.sprite3
+СЃС‚СЂРµР»РєР°2.sprite3
+СѓСЂРѕРЅ.sprite3
+С…Р°Р»Рє.sprite3
