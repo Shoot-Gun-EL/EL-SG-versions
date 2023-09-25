@@ -1,14 +1,1 @@
-﻿быстрый.sprite3
-выбор оружий.sprite3
-ГГ.sprite3
-деньги.sprite3
-Играть.sprite3
-кол-во патронов.sprite3
-обычный.sprite3
-превью.sprite3
-пульки.sprite3
-сильный.sprite3
-стрелка1.sprite3
-стрелка2.sprite3
-урон.sprite3
-халк.sprite3
+﻿["быстрый.sprite3","выбор оружий.sprite3","ГГ.sprite3","деньги.sprite3","Играть.sprite3","кол-во патронов.sprite3","обычный.sprite3","превью.sprite3","пульки.sprite3","сильный.sprite3","стрелка1.sprite3","стрелка2.sprite3","урон.sprite3","халк.sprite3"]
