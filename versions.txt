@@ -1,4 +1,4 @@
 [
-	"0.1/err",
-	"0.6/orig"
+	{"name":"0.1/err","ver":"0.1","loc.ver":"0.5"},
+	{"name":"0.6/orig","ver":"0.6","loc.ver":"orig"}
 ]
